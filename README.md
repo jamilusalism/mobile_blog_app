@@ -1,4 +1,4 @@
-# blog_app
+# mobile_blog_app
 
 A new blog app created for the Code Clan week one excercise.
 
